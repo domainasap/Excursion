@@ -1,0 +1,91 @@
+element-style {}
+html {
+  display: block;
+}
+head {
+  display: none;
+}
+link {
+  display: none;
+}
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+element.style {
+}
+h1 {
+  font-size: 50px
+}
+h1 {
+  display: block;
+  -webkit-margin-before: 0.67em;
+  -webkit-margin-after: .67em;
+  -webkit-margin-start: .0px;
+  -webkit-margin-end: .0px;
+  font-weight: bold;
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: .0px;
+  -webkit-margin-end: .0px;
+}
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
+a:-webkit-any-link {
+  cursor: auto;
+  text-decoration: underline;
+  text-decoration: underline;
+  text-decoration-style: initial;
+  text-decoration-style: initial;
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+video {
+  object-fit: contain;
+}
+h2 {
+  font-size: 42px;
+}
+h2 {
+  display: block;
+  -webkit-margin-before: 0.83em;
+  -webkit-margin-after: .83em;
+  -webkit-margin-start: .0px;
+  -webkit-margin-end: .0px;
+  font-weight: bold;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+.footer {
+  text-align: right;
+}
+div {
+  display: block;
+}
+script {
+  display: none;
+}
+html {
+  display: block;
+}
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
