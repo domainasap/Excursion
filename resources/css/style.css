@@ -45,7 +45,7 @@ p {
  a {
 	cursor: auto;
 	text-decoration: underline;
-	text-decoration: underline;
+	text-decoration-line: underline;
 	text-decoration-style: initial;
 	text-decoration-style: initial;
  }
